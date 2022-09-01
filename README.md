@@ -8,7 +8,7 @@ En este curso, vas a encontrar documentación técnica y videos que te van a ser
 
 Este material de estudio autodidáctica te va a ser útil para resolver nuestro **Explorer Challenge** 
 
-<br><br>
+<br>
 
 # 📚 Contenido del curso:
 
