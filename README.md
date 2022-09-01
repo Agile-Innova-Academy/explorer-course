@@ -12,9 +12,9 @@ Este material de estudio autodidáctica te va a ser útil para resolver nuestro 
 
 # 📚 Contenido del curso:
 
-**[_Prework._](https://github.com/academia-geek/Classroom-Aprendices-Geek-Frontend/tree/master/Modulo-0)** Conceptos Esenciales<br>
-**[_JavaScript._](https://github.com/academia-geek/Classroom-Aprendices-Geek-Frontend/tree/master/Modulo-1)** Fundamentos de programación haciendo uso del lenguaje de programación JavaScript<br>
-**[_HTML y CSS._](https://github.com/academia-geek/Classroom-Aprendices-Geek-Frontend/tree/master/Modulo-2)** Diseño Web, Maquetación de páginas y productos web haciendo uso de HTML y CSS<br>
+**[_Prework._](https://github.com/Agile-Innova-Academy/explorer-course/tree/main/1.%20PreWork)** Conceptos Esenciales<br>
+**[_JavaScript._](https://github.com/Agile-Innova-Academy/explorer-course/tree/main/2.%20Javascript)** Fundamentos de programación haciendo uso del lenguaje de programación JavaScript<br>
+**[_HTML y CSS._](https://github.com/Agile-Innova-Academy/explorer-course/tree/main/3.%20HTML%20y%20CSS)** Diseño Web, Maquetación de páginas y productos web haciendo uso de HTML y CSS<br>
 
 
 # 📝 Homeworks
@@ -45,18 +45,6 @@ Una vez que haya creado un nuevo problema, será recibido por la pantalla a cont
 * Un botón de envío
 
 ![](https://storage.googleapis.com/academia-geek-general-bucket/issue_3.png)
-
-
-<div class="panel panel-info">
-**Note**
-{: .panel-heading}
-<div class="panel-body">
-
-NOTE DESCRIPTION
-
-</div>
-</div>
-
 
 
  > IMPORTANTE: Los `Issues` deben dejarse en estado abierto `Open`, de esta manera cada vez que usted crea un `Issue` una persona de nuestro equipo de mentores pasará a revisar si su entrega corresponde a los requerimientos solicitados en la asignación, tarea o entrega y es quien cambia el estado de un `Issue`, el cual puede ser cerrado `Close` o generarse una etiqueta `Label` en relacióna a una corrección o adición que usted deba realizar para que sea válida la entrega realizada y estar su actividad `Issue` cerrada `Close`.
