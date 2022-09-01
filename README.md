@@ -39,10 +39,10 @@ Una vez que haga clic en esa pestaña, verá todos los problemas actuales en est
 
 ![](https://storage.googleapis.com/academia-geek-general-bucket/issue_2.png)
 
-Una vez que haya creado un nuevo problema, será recibido por la pantalla a continuación. Aquí proporcionarás
-* Un título para su problema (cada título debe ser el nombre de la tarea, por ejemplo según el caso en cada entrega de un módulo es "Entrega-Modulo-3-Tarea-01-Divisas)
-* Un cuerpo para tu `Issue` para escribir una respuesta o subir una captura de pantalla.
-* Un botón de envío
+Una vez que haya creado un nuevo `Issue`, será recibido por la pantalla a continuación. Aquí proporcionarás
+* Un título para su `Issue` (cada título debe ser el nombre de la tarea, por ejemplo **Tarea-01-Divisas**)
+* Un cuerpo para tu `Issue` para escribir la explicación de tu entrega o adjuntar imagenes que sustenten el reto resuelto.
+* Un Botón de envío
 
 ![](https://storage.googleapis.com/academia-geek-general-bucket/issue_3.png)
 
