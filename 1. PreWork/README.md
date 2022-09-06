@@ -2,7 +2,7 @@
 
 En este primer módulo te mostraremos cómo configurar un entorno de trabajo y usar las herramientas necesarias para que trabajes cómodamente y de acuerdo a tus necesidades.
 
-Aprenderás a instalar y a usar Visual Studio Code, el editor de código más popular en la actualidad para desarrollar aplicaciones, podrás configurar GitHub e identificar los comandos fundamentales para trabajar fluidamente con tu equipo, instalarás Node.js y XAMPP para usar MySQL/MariaDB.
+Aprenderás a instalar y a usar Visual Studio Code, el editor de código más popular en la actualidad para desarrollar aplicaciones, podrás configurar Git y GitHub e identificar los comandos fundamentales para trabajar fluidamente con tu equipo, instalarás Node.js entre otras herramientas.
 
 ## Lecciones
 Todos los enlaces de instalación y documentación de interés se pueden encontrar en la parte superior esta página.
