@@ -3,7 +3,10 @@ Vamos a crear una página web que tenga la información correspondiente a una re
  
 ## Especificaciones Bandeja Paisa
 ![](https://res.cloudinary.com/db9wh5uvt/image/upload/c_scale,w_265/v1625655763/1570939e9f814bec82c668279513c94f_BANDEJA-PAISA_708_600_grvumx.jpg)
-La bandeja paisa es, sin duda, uno de los platos más reconocidos de la gastronomía colombiana. Es tradicional de las tierras antioqueñas, pero se consume en todo el país e incluso en el extranjero, donde ha llegado de la mano de migrantes colombianos.
+
+<br/>
+
+**La bandeja paisa es, sin duda, uno de los platos más reconocidos de la gastronomía colombiana. Es tradicional de las tierras antioqueñas, pero se consume en todo el país e incluso en el extranjero, donde ha llegado de la mano de migrantes colombianos.**
 
 ***¿Qué ingredientes se necesitan para hacer una bandeja paisa para 6 personas?***
 - 3 tazas de fríjoles de cargamanto
