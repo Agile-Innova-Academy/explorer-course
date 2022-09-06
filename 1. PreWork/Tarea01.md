@@ -1,4 +1,4 @@
-# Tarea Módulo 0
+# Tarea PreWork
 
 El siguiente ejercicio le permitirá evaluar los conceptos aprendidos en la sesión
 1. Crear una carpeta de trabajo con el nombre Aprendiz-Geek para el curso usando el comando `mkdir`
@@ -28,13 +28,5 @@ El siguiente ejercicio le permitirá evaluar los conceptos aprendidos en la sesi
 10. Crear un repositorio en gitHub
 11. Agregar la url del repositorio remoto
 12. terminar con `git push` para entregar los cambios a la respectiva rama.
-
-## Entrega de la tarea
-
-Para realizar la entrega de esta actividad debe realizar los siguientes pasos:
-
-    1. Crear un Issues llamado Entrega-Modulo-0-01-primeros-pasos-Tarea-01
-    2. Al Issues adicionar un pantallazo con el enunciado de la tarea
-    3. Luego debes agregar la descripción de los pasos que ejecutaste para dar solución a la tarea y adjuntar las imágenes de evidencia.
 
        
